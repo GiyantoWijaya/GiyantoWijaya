@@ -1,10 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Header Image](https://example.com/your-header-image.png)
 
 ## Hi there! I'm Giyanto Wijaya 👋
-
-![GitHub followers](https://img.shields.io/github/followers/GiyantoWijaya?style=social) 
 
 ### 📫 Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/giyanto-w-4b2028207)

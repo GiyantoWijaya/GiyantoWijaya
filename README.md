@@ -1,11 +1,14 @@
 # 🌟 Hi there! I'm Giyanto Wijaya 👋 Welcome to My GitHub Profile!
 
+I'm a passionate backend developer and blockchain developer from Surabaya, East Java, Indonesia. Here, you'll find a collection of my work and collaborations.
+As a career switcher to full stack development, I am highly motivated to explore and expand my skills in the tech world. With a strong proficiency in JavaScript/Typescript, including Node.js, Express.js, React.js, and Next.js, I am well-equipped to build robust, scalable, and efficient web applications that are tailored to unique needs.
+
+My career goal is to become a master in tech, as I believe that every technology can evolve and I need to evolve with it. I am excited about the opportunity to utilize my skills and experience to help companies achieve their goals by delivering products that exceed their expectations.
+
 ### 📫 Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/giyanto-w-4b2028207)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/GiyantoWijaya)
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:oeigieseng@gmail.com)
-
-I'm a passionate backend developer and blockchain developer from Surabaya, East Java, Indonesia. Here, you'll find a collection of my work and collaborations.
 
 ### 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)

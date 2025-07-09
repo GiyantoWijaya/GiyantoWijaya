@@ -1,4 +1,4 @@
-# 🌟 Hi there! I'm Giyanto Wijaya 👋 Welcome to My GitHub Profile!
+# 🌟 Hi there! I'm Giyanto 👋 Welcome to My GitHub Profile!
 
 I'm a passionate backend developer and blockchain developer from Surabaya, East Java, Indonesia. Here, you'll find a collection of my work and collaborations.
 
